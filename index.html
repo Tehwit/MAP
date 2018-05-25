@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title> My Travel Photobook</title>
+        <link rel="stylesheet" href="style.css">
+        <script src='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css' rel='stylesheet' />
+    </head>
+    <body>
+        <h1>Bienvenue sur My Travel Photobook</h1>
+        <p>Sélectionnez et placez une photo sur la carte<br/>
+    Survolez les points en place pour visualiser les informations disponibles</p>
+    <div id="map">
+
+    </div>
+    <script>
+            L.mapbox.accessToken = 'pk.eyJ1IjoidGxlbmNsb3MiLCJhIjoiY2pobTVrbXB6Mm4wczNkbzYwZ2VjNDZidyJ9.oU289U_hNWEmxp1FmAaxqw';
+            var map = L.mapbox.map('map', 'mapbox.streets')
+                .setView([49.439903, 1.094819], 9);
+            </script>
+    </body>
+</html>
+
+
+
+
+TODO importer app.js
+TODO Importer style.css
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div

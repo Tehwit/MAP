@@ -1,0 +1,10 @@
+Afficher une map type Google Maps et localiser 
+- Choisir vue cluster ou photos individuelles
+- Importer photos locale via file picker natif (voir drag & drop)
+- Placer les photos précisément sur la map (via EXIF)
+- Afficher les heures de prise de vue lors d’un survol des photos (via EXIF)
+- (Nommer & décrire les photos individuellement)
+- (Cluster de photos avec mise en valeur d’une photo ou plusieurs du cluster)
+- (Tracer un trajet par route entre les photos (choix vélo/voiture) et définir vitesse de parcours entre chaque photos si le même jour)
+- (Générer un .mp4/.gif du parcours une fois complété)
+
