@@ -18,8 +18,12 @@
 
 
 ## TODO App
-- HTML : Afficher un texte en haut pour les infos utilisateur + boite vide qui contiendra la carte
-- CSS : Styliser un peu le texte, bien positionner la carte
-- HTML + MAPBOX : Voir comment intégrer la carte sur toute la page
+✅ HTML : Afficher un texte en haut pour les infos utilisateur + boite vide qui contiendra la carte
+✅ CSS : Styliser un peu le texte, bien positionner la carte
+✅ HTML + MAPBOX : Voir comment intégrer la carte sur toute la page
 - Se renseigner sur l'API mapbox pour afficher un point sur la carte
-- Voir comment lire des données EXIF en javascript côté client
+- Ajouter un file picker pour sélectionner DES images
+- Voir comment lire des données EXIF en javascript côté client (utilisation d'une lib, un peu comme mapbox)
+
+
+TODO importer app.js TODO Importer style.css https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div

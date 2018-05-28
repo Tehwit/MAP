@@ -8,3 +8,7 @@ Afficher une map type Google Maps et localiser
 - (Tracer un trajet par route entre les photos (choix vélo/voiture) et définir vitesse de parcours entre chaque photos si le même jour)
 - (Générer un .mp4/.gif du parcours une fois complété)
 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style
+https://developer.mozilla.org/en-US/docs/Web/API/Element
