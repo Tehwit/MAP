@@ -12,7 +12,7 @@ html {
 
 h1 {
     color: navy;
-    margin-left: 50px;
+    text-align: center;
 }
 
 p {
@@ -21,14 +21,14 @@ p {
 
 #map {
     position: absolute;
-    width: 100%;
+    width: 90%;
     height: 80%;
     border:5px solid;
 }
 
 .marker {
-    width: 50px;
-    height: 50px;
+    width: 10px;
+    height: 10px;
     background-color: red;
     border-radius: 50%;
     cursor: pointer;

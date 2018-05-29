@@ -5,16 +5,18 @@
     <link rel="stylesheet" href="style.css">
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='./exif.js'></script>
+    <script src='./dms2dec.js'></script>
 </head>
 
 <body>
     <h1>Bienvenue sur My Travel Photobook</h1>
     <p>Sélectionnez et placez une photo sur la carte
-        <br/> Survolez les points en place pour visualiser les informations disponibles</p>
-    <div>
-        <label for="file">Choose file to upload</label>
+    <br/>Survolez les points en place pour visualiser les informations disponibles</p>
+    <p>
+        <label for="file">Choisissez des images à ajouter</label>
         <input type="file" id="file" name="file" multiple>
-    </div>
+    </p>
 
     <div id="map"><div>
     <script type="text/javascript" src="app.js"></script>
